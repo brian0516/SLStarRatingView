@@ -123,6 +123,4 @@
     return _middleView;
 }
 
-
-
 @end
